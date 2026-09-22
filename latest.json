@@ -1,11 +1,11 @@
 {
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK0pmNmJ3TlNyMU1OZ2tZaXZKa0NFcUV4cWhsNldBWkdiblkzbzhZNTh2Y2R4L2pPUHFEeGp1bzhkR0tUZlMwYk5mNFg2d2NSMnM2TmtVVmU4WVB6bzJSVCtlUm9KdkFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDAxOTUwCWZpbGU6WUFSU0VOIENIRUNLRVJfMi4yLjVfeDY0LXNldHVwLmV4ZQpvdUZQa1dVc2pIY0htaFBHdVY3Wk1MK0Fua0pBNHR3WkplMGh3WVBVTG42WWdwTjJIdC9FWGp1eVhkZ3V6THBvYTk0QVhwVE1udW9EVTBPZ29ZTVBCUT09Cg==",
-                                             "url":  "https://github.com/Pooh8436/Yarsen-Releases/releases/download/v2.2.5/YARSEN.CHECKER_2.2.5_x64-setup.exe"
-                                         }
-                  },
-    "pub_date":  "2026-09-21T15:00:00Z",
-    "version":  "2.2.5",
-    "notes":  "Yarsen Checker 2.2.5"
+  "version": "2.2.7",
+  "notes": "Yarsen Checker 2.2.7",
+  "pub_date": "2026-09-22T13:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK0pmNmJ3TlNyMUJPUU5SUFY4aDJsV1hiazBydkZmejgzcEkzY2g5UE9PamRxczA0dndzVXFIekMwQkVnQTNEMm1lZEtEYnFocHpINWsyUDhqTDF1bXNoZnhZUWROY3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDgzNDYxCWZpbGU6WUFSU0VOIENIRUNLRVJfMi4yLjdfeDY0LXNldHVwLmV4ZQpVeFZyRnZIc0psVnlpQWZTMzl1U2J1bUo3eGZzZldvNFMwdHQzMlJFZW1Jdm00Y3BWczJucWQ2NkMrdnJxcmc4VkhtQ3NUaHhCbjlING1tTkhmVEVBUT09Cg==",
+      "url": "https://github.com/Pooh8436/Yarsen-Releases/releases/download/v2.2.7/YARSEN%20CHECKER_2.2.7_x64-setup.exe"
+    }
+  }
 }
