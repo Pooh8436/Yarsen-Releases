@@ -1,7 +1,7 @@
 {
   "version": "2.2.8",
   "notes": "เพิ่ม CMD/Admin และ Timeline รวม ตรวจไฟล์ FiveM/อาวุธพร้อมเทียบ SHA-256 Baseline แก้เปลี่ยนหน้าเมื่อสแกนครบ 100% และเพิ่มรายละเอียดรายงาน หลักฐานย้อนหลังขึ้นกับ Log ที่ Windows บันทึก ไม่ใช่การยืนยันค่า Hitbox ในหน่วยความจำเกม",
-  "pub_date": "2569-10-02T17:52:07Z",
+  "pub_date": "2026-10-02T17:52:07Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK0pmNmJ3TlNyMUdZWEM3WUFVOFMyNmsyQjhEaVZqSWNURTNCVlljRmpwaHdZS044enoxNWJOODRxTEtWUTMycEpNQUVCUTJOc2YzMVlKa1dVUDBreVIyaWtwanNtM3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTYzNDkyCWZpbGU6WUFSU0VOIENIRUNLRVJfMi4yLjhfeDY0LXNldHVwLmV4ZQpXVVMyNEtFOWtLT2RmZFhRQ1lSOGVOWjJMUFE2eVYzRk1PdnROd3JnTmR1dEVuSWNHTzVWNjFRWkhDQUs1anhUN01lWElYN1RnMkVUek5BQ2Q4OWJEQT09Cg==",
